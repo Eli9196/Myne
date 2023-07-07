@@ -1,2 +1,3 @@
 # Myne
-some description
+this is an application that add staff information
+
